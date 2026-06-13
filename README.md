@@ -18,15 +18,14 @@ This Tableau project analyzes customer reviews contained in the dataset `reviews
 
 Place screenshot images in an `images/` folder and commit them. Example image references used in the dashboards:
 
-- ![Dashboard Overview](images/dashboard_overview.png)
-- ![Sentiment Analysis](images/sentiment_analysis.png)
-- ![Ratings by Category](images/ratings_by_category.png)
+
+
+If you want, I can add these images for you — upload the screenshots or point me to their paths and I'll add them to the repo.
+## Images
+
+This repository includes a single project screenshot. I removed other example images so only your project image is visible below.
 
 - ![Tableau Project](Tableau Project.png)
 
-If you want, I can add these images for you — upload the screenshots or point me to their paths and I'll add them to the repo.
-
-## Notes
-
+If you'd like the image moved into an `images/` folder, I can do that and update the link.
 - This README provides a starting point; update descriptions and image filenames as you add workbook files or screenshots.
-- If you'd like, I can also create an `images/` folder and add sample thumbnails.
