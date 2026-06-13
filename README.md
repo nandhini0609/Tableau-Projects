@@ -22,6 +22,8 @@ Place screenshot images in an `images/` folder and commit them. Example image re
 - ![Sentiment Analysis](images/sentiment_analysis.png)
 - ![Ratings by Category](images/ratings_by_category.png)
 
+- ![Tableau Project](Tableau Project.png)
+
 If you want, I can add these images for you — upload the screenshots or point me to their paths and I'll add them to the repo.
 
 ## Notes
