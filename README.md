@@ -27,5 +27,5 @@ This repository includes a single project screenshot. I removed other example im
 
 - ![Tableau Project](images/Tableau Project.png)
 
-If you'd like the image moved into an `images/` folder, I can do that and update the link.
+If you'd like the image moved into an `images/Tableau_Project.png` folder, I can do that and update the link.
 - This README provides a starting point; update descriptions and image filenames as you add workbook files or screenshots.
