@@ -25,7 +25,7 @@ If you want, I can add these images for you — upload the screenshots or point 
 
 This repository includes a single project screenshot. I removed other example images so only your project image is visible below.
 
-- ![Tableau Project](images/Tableau Project.png)
+- ![Tableau Project](images/Tableau_Project.png)
 
 If you'd like the image moved into an `images/Tableau_Project.png` folder, I can do that and update the link.
 - This README provides a starting point; update descriptions and image filenames as you add workbook files or screenshots.
